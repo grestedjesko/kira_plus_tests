@@ -1,0 +1,5 @@
+ aiogram sqlalchemy dependency-injector httpx openai uvloop asyncpgf
+ aiostream
+ dotenv
+ google-api-python-client
+oauth2client
